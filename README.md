@@ -1,3 +1,4 @@
 # About me
-- I am a decently skilled pixel artist
-- I am currently learning Javascript
+I am an 18 y/o developer from Idaho, United States.
+
+I have basic knowledge of java and c++, and am a competent artist in some other respects.
